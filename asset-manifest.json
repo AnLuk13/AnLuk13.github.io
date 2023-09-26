@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Anluk13/Anluk13.github.io/static/css/main.0e3cf326.css",
+    "main.js": "/Anluk13/Anluk13.github.io/static/js/main.3789cd07.js",
+    "static/media/nature.jpg": "/Anluk13/Anluk13.github.io/static/media/nature.cd93c3df63b37630f84d.jpg",
+    "index.html": "/Anluk13/Anluk13.github.io/index.html",
+    "main.0e3cf326.css.map": "/Anluk13/Anluk13.github.io/static/css/main.0e3cf326.css.map",
+    "main.3789cd07.js.map": "/Anluk13/Anluk13.github.io/static/js/main.3789cd07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3cf326.css",
+    "static/js/main.3789cd07.js"
+  ]
+}
